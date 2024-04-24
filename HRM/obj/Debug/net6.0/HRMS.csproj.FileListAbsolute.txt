@@ -1,0 +1,257 @@
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\appsettings.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\HRMS.staticwebassets.runtime.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\HRMS.exe
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\HRMS.deps.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\HRMS.runtimeconfig.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\HRMS.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\HRMS.pdb
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.AssemblyReference.cache
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.AssemblyInfoInputs.cache
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.AssemblyInfo.cs
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.CoreCompileInputs.cache
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.RazorAssemblyInfo.cache
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.RazorAssemblyInfo.cs
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.HRMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.build.HRMS.props
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HRMS.props
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HRMS.props
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\scopedcss\bundle\HRMS.styles.css
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\scopedcss\projectbundle\HRMS.bundle.scp.css
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\refint\HRMS.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.pdb
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.genruntimeconfig.cache
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\ref\HRMS.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.CopyComplete
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ayesha Riaz\source\repos\HRM\HRM\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\appsettings.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\HRMS.staticwebassets.runtime.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\HRMS.exe
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\HRMS.deps.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\HRMS.runtimeconfig.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\HRMS.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\HRMS.pdb
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.AssemblyReference.cache
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.AssemblyInfoInputs.cache
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.AssemblyInfo.cs
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.CoreCompileInputs.cache
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.RazorAssemblyInfo.cache
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.RazorAssemblyInfo.cs
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.HRMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.build.HRMS.props
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HRMS.props
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HRMS.props
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\scopedcss\bundle\HRMS.styles.css
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\scopedcss\projectbundle\HRMS.bundle.scp.css
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.CopyComplete
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\refint\HRMS.dll
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.pdb
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\HRMS.genruntimeconfig.cache
+C:\Users\INSRAM UL HAQ\OneDrive\Desktop\HRM\HRM\obj\Debug\net6.0\ref\HRMS.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\appsettings.json
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\HRMS.staticwebassets.runtime.json
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\HRMS.exe
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\HRMS.deps.json
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\HRMS.runtimeconfig.json
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\HRMS.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\HRMS.pdb
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Humanizer.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects Zips\HRM\HRM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.AssemblyReference.cache
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.AssemblyInfoInputs.cache
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.AssemblyInfo.cs
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.CoreCompileInputs.cache
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.RazorAssemblyInfo.cache
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.RazorAssemblyInfo.cs
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.HRMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.build.HRMS.props
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HRMS.props
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HRMS.props
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\scopedcss\bundle\HRMS.styles.css
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\scopedcss\projectbundle\HRMS.bundle.scp.css
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.csproj.CopyComplete
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.dll
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\refint\HRMS.dll
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.pdb
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\HRMS.genruntimeconfig.cache
+D:\Projects Zips\HRM\HRM\obj\Debug\net6.0\ref\HRMS.dll

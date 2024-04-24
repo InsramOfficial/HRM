@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<!-- Created By CodingNepal - www.codingnepalweb.com -->
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title> HRMS </title>
+    <link rel="stylesheet" href="style.css">
+    <link href="~/css/sidebar.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+</head>
+<body>
+
+    @RenderBody()
+    <input type="checkbox" id="check">
+    <label class="button bars" for="check"><i class="fas fa-bars"></i></label>
+    <div class="side_bar">
+        <div class="title">
+            <div class="logo">HRMS</div>
+        
+            <label class=" button cancel" for="check"><i class="fas fa-times"></i></label>
+        </div>
+        <ul>
+            <li><a href="/Dashboard/Index"><i class="fas fa-qrcode"></i>Dashboard</a></li>
+            <li><a href="/Employee_Form/Index"><i class="fas fa-link"></i>Registration</a></li>
+            <li><a href="/employee/Index"><i class="fas fa-stream"></i>Employee</a></li>
+            <li><a href="/Dashboard/Departement"><i class="fas fa-calendar-week"></i>Add_Departement</a></li>
+            <li><a href="/Dashboard/_Designation"><i class="fas fa-question-circle"></i>Add_Designation</a></li>
+            <li><a href="#"><i class="fas fa-sliders-h"></i>Services</a></li>
+            <li><a href="#"><i class="fas fa-phone-volume"></i>Contact</a></li>
+            <li><a href="#"><i class="fas fa-comments"></i>Feedback</a></li>
+        </ul>
+        <div class="media_icons">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+        </div>
+
+    </div>
+</body>
+</html>
